@@ -1,7 +1,8 @@
 # Land Use Data Classification
 
 =======================================================================================
-Problem description and details can be found in ProblemDescription.pdf
+Problem description:
+The goal is to build a classification model for land use data from satellite imagery. The satellite imagery has a square size of 28 pixels and 4 channels in RGB and Near-Infrared. The land use data has 6 classes
 
 =======================================================================================
 
